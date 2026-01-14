@@ -24,7 +24,9 @@ A comprehensive Power BI dashboard for analyzing home loan application data, pro
 - Salaried professionals (65%) dominate the applicant pool
 - ₹10-20 LPA salary band shows highest application volume
 - Clear seasonal trends in loan applications
-- Gender distribution shows 60% male, 40% female applicants
+- Gender distribution shows 33.6% male, 33.2% female, and 33.1% third gender applicants.
+
+ applicants
 
 ## 🎯 Business Impact
 
